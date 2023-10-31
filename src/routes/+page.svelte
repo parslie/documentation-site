@@ -13,5 +13,4 @@
     }
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>{text}</p>
+<h1>Click a link!</h1>
